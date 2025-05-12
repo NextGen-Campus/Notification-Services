@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/config/mailer.ts","./src/mailTemplates/validateTemplate.ts","./src/mailTemplates/Templates/welcome.ts","./src/routes/notificationRoute.ts"],"version":"5.8.2"}
